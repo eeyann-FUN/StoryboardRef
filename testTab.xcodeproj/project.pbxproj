@@ -13,6 +13,8 @@
 		31251C0821CD512B0023081A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 31251C0621CD512B0023081A /* Main.storyboard */; };
 		31251C0A21CD512C0023081A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31251C0921CD512C0023081A /* Assets.xcassets */; };
 		31251C0D21CD512C0023081A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 31251C0B21CD512C0023081A /* LaunchScreen.storyboard */; };
+		31251C1521CD51770023081A /* Storyboard1.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 31251C1421CD51770023081A /* Storyboard1.storyboard */; };
+		31251C1721CD551B0023081A /* Storyboard2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 31251C1621CD551B0023081A /* Storyboard2.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		31251C0921CD512C0023081A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		31251C0C21CD512C0023081A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		31251C0E21CD512C0023081A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		31251C1421CD51770023081A /* Storyboard1.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard1.storyboard; sourceTree = SOURCE_ROOT; };
+		31251C1621CD551B0023081A /* Storyboard2.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard2.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				31251C0921CD512C0023081A /* Assets.xcassets */,
 				31251C0B21CD512C0023081A /* LaunchScreen.storyboard */,
 				31251C0E21CD512C0023081A /* Info.plist */,
+				31251C1421CD51770023081A /* Storyboard1.storyboard */,
+				31251C1621CD551B0023081A /* Storyboard2.storyboard */,
 			);
 			path = testTab;
 			sourceTree = "<group>";
@@ -128,6 +134,8 @@
 				31251C0D21CD512C0023081A /* LaunchScreen.storyboard in Resources */,
 				31251C0A21CD512C0023081A /* Assets.xcassets in Resources */,
 				31251C0821CD512B0023081A /* Main.storyboard in Resources */,
+				31251C1521CD51770023081A /* Storyboard1.storyboard in Resources */,
+				31251C1721CD551B0023081A /* Storyboard2.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
